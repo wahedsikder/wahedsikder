@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-16625
-Fork on GitHub
-4686
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Wahed Sikder</h1>
 <h3 align="center">A passionate Full Stack Engineer</h3>
 
