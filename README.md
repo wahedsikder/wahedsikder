@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wahed Sikder</h1>
+<h1 align="center">Hi 👋, I'm Wahed</h1>
 <h3 align="center">A passionate Full Stack Engineer</h3>
 
 - 🌱 I’m currently learning **React**
