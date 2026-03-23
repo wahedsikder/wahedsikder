@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wahed Sikder</h1>
-<h3 align="center">A passionate Indie Hacker</h3>
+<h3 align="center">A Full Stack Web Developer From Bangladesh.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
